@@ -1,0 +1,32 @@
+= Einkaufsliste
+
+Leonie Adelwöhrer | Bauer Alina | Hofer Jakob | Laurin Pölderl | Mathias Schablinger | 4AHITM | 2023/24
+
+== Vorlage für den Drohnenbau
+
+https://www.thingiverse.com/thing:32281
+
+== Produkte für den Bau
+Shop: Shop: https://www.getfpv.com/
+
+=== Motor
+Motors - RCTimer 750 Kv  - 40€
+https://www.getfpv.com/brotherhobby-avenger-2816-motor-620kv-750kv-810kv-1050kv.html
+
+=== ESCs
+ESCs - Turnigy Plush 30A - 10€
+https://hobbyking.com/de_de/turnigy-plush-30amp-speed-controller.html?___store=de_de
+
+=== Batterie
+Battery - Turnigy Nanotech 3S or 4S 4000mah - 25€
+https://hobbyking.com/de_de/turnigy-battery-nano-tech-4000mah-3s-25-50c-lipo-pack-xt-60.html?___store=de_de
+
+=== Controller
+Flight Controller - KK 2.0  - 25€
+https://hobbyking.com/de_de/hobbyking-kk2-1-5-multi-rotor-lcd-flight-control-board-with-6050mpu-and-atmel-644pa.html?___store=de_de
+
+=== Kamera
+GoPro leicht - 300€ (sicher billiger findbar)
+https://gopro.com/de/de/shop/cameras/hero10-black/CHDHX-101-master.html
+
+
