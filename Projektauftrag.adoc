@@ -1,0 +1,95 @@
+
+= Projektauftrag
+Leonie Adelwöhrer, Alina Bauer, Jakob HOfer, Laurin Pölderl, Mathias Schablinger
+1.0.0, {docdate}: ITP
+//:toc-placement!: // prevents the generation of the doc at this position, so it can be printed afterwards
+:sourcedir: ../src/main/java
+:icons: font
+:sectnums: // Nummerierung der Überschriften / section numbering
+:toc: left
+:experimental:
+
+//Need this blank line after ifdef, don't know why...
+
+// print the toc here (not at the default position)
+//toc::[]
+
+Leonie Adelwöhrer | Alina Bauer | Jakob Hofer | Laurin Pölderl | Mathias Schablinger | 4AHITM | 2023/24
+
+== Projektname
+Build your drone
+
+== Ausgangssituation / Problemstellung / Vorgeschichte
+=== Option 1
+* Man hat eine Photovoltaikanlage
+
+Man möchte wissen, ob seine Photovoltaik gut funktioniert und nicht Fehlerhaft ist.
+
+=== Option 2
+
+* HTL Leonding hat zu wenig Aufmerksamkeit
+
+Man möchte die Aufmerksamkeit von Menschen, auf die HTL Leonding lenken.
+
+== Projektziele / Nicht- Ziele
+
+=== Option 1
+
+* Energiesparen
+* mehr Energiegewinnung
+* Wissen ob die Photovoltaik gut funktioniert
+
+=== Option 2
+
+* Mehr Aufmerksamkeit bei der HTL Leonding
+* sieht cool aus
+
+== Projektinhalte (Hauptaufgaben, inhaltliche Komponenten)
+
+
+
+== Kritische Erfolgsfaktoren
+
+
+
+
+== Termine
+
+* Projektstart: 11.10.2023
+* Projektende: Project-Award 2024
+* Meilensteine:
+
+== Kosten / Ressourcen
+
+* 3D Drucker für Drone
+* etwa 400€ (eher mehr)
+* Zusätzliche Geräte damit die Drone fliegen kann
+
+== Projektorganisation (Rollen)
+
+* Leonie Adelwöhrer
+** Product owner
+
+* Alina Bauer
+** Scrum Master
+
+* Jakob Hofer
+** Developer
+
+* Laurin Pölderl
+** Developer
+
+* Mathias Schablinger
+** Developer
+
+== Projektauftraggeber
+
+* Professor Christian Aberger
+* Professor David Klewein
+
+
+== Unterschriften
+
+
+
+
