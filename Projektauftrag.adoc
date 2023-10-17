@@ -17,13 +17,14 @@ Leonie Adelwöhrer, Alina Bauer, Jakob HOfer, Laurin Pölderl, Mathias Schabling
 Leonie Adelwöhrer | Alina Bauer | Jakob Hofer | Laurin Pölderl | Mathias Schablinger | 4AHITM | 2023/24
 
 == Projektname
-Build your drone
+Build your drone (BYD)
 
 == Ausgangssituation / Problemstellung / Vorgeschichte
 === Option 1
-* Man hat eine Photovoltaikanlage
-
-Man möchte wissen, ob seine Photovoltaik gut funktioniert und nicht Fehlerhaft ist.
+* Herr. Prof. hat einige Solarplatten bei sich zu Hause.
+* Die Platten liegen in sehr hoher Höhe und können nicht kontrolliert werden.
+* Man musste zuvor jemanden kommen lassen der alles kontrolliert.
+* Man möchte wissen, ob seine Photovoltaik gut funktioniert und nicht Fehlerhaft ist.
 
 === Option 2
 
@@ -31,12 +32,14 @@ Man möchte wissen, ob seine Photovoltaik gut funktioniert und nicht Fehlerhaft 
 
 Man möchte die Aufmerksamkeit von Menschen, auf die HTL Leonding lenken.
 
-== Projektziele / Nicht- Ziele
+== Projektziele / Nicht- Ziele (quantifizierbare (messbare) und nicht quantifizierbare Ziele
 
 === Option 1
-
+* Die Drohne soll Open Source sein
+* Jeder soll sie nachbauen können
+* Sie soll erweiterbar sein
+* Wir wollen eine Kiste Bier vom Aberger
 * Energiesparen
-* mehr Energiegewinnung
 * Wissen ob die Photovoltaik gut funktioniert
 
 === Option 2
@@ -64,6 +67,10 @@ Man möchte die Aufmerksamkeit von Menschen, auf die HTL Leonding lenken.
 * 3D Drucker für Drone
 * etwa 400€ (eher mehr)
 * Zusätzliche Geräte damit die Drone fliegen kann
+
+siehe Einkaufsliste.adoc
+link: https://github.com/BuildYourDrone/documentation/blob/main/Einkaufsliste.adoc[Einkaufsliste]
+
 
 == Projektorganisation (Rollen)
 
