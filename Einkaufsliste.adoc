@@ -4,29 +4,40 @@ Leonie Adelwöhrer | Bauer Alina | Hofer Jakob | Laurin Pölderl | Mathias Schab
 
 == Vorlage für den Drohnenbau
 
-https://www.thingiverse.com/thing:32281
+https://www.thingiverse.com/thing:234867
 
-== Produkte für den Bau
-Shop: Shop: https://www.getfpv.com/
-
-=== Motor
-Motors - RCTimer 750 Kv  - 40€
+== Benötigte Komponenten
+=== Motoren
+4x BrotherHobby Avenger 2816 750KV - 39€ x 4 = 156€ +
 https://www.getfpv.com/brotherhobby-avenger-2816-motor-620kv-750kv-810kv-1050kv.html
 
-=== ESCs
-ESCs - Turnigy Plush 30A - 10€
-https://hobbyking.com/de_de/turnigy-plush-30amp-speed-controller.html?___store=de_de
+=== Controller + ESC
+SpeedyBee F7 V3 Stack - 126€ +
+https://www.getfpv.com/speedybee-f7-v3-stack-f722-fc-50a-blheli-32-128k-esc-30x30.html
 
-=== Batterie
-Battery - Turnigy Nanotech 3S or 4S 4000mah - 25€
-https://hobbyking.com/de_de/turnigy-battery-nano-tech-4000mah-3s-25-50c-lipo-pack-xt-60.html?___store=de_de
+Alternativ: +
+Hobbywing XRotor Combo Stack - 130€ +
+https://www.getfpv.com/hobbywing-xrotor-micro-combo-stack-f7-fc-65a-4-in-1-blheli-32-esc.html +
+(kein UART!)
 
-=== Controller
-Flight Controller - KK 2.0  - 25€
-https://hobbyking.com/de_de/hobbyking-kk2-1-5-multi-rotor-lcd-flight-control-board-with-6050mpu-and-atmel-644pa.html?___store=de_de
+=== Receiver
+SRXL2 DSMX Remote Serial Telemetry Receiver - 46€ +
+https://www.spektrumrc.com/product/srxl2-dsmx-remote-serial-telemetry-receiver/SPM4651T.html
 
-=== Kamera
-GoPro leicht - 300€ (sicher billiger findbar)
-https://gopro.com/de/de/shop/cameras/hero10-black/CHDHX-101-master.html
+Funktioniert mit der Fernsteuerung Spektrum NX6, die von Jakob Hofer zur Verfügung gestellt wird. Neben Steuerung ist auch Telemetry möglich. Siehe link:https://betaflight.com/docs/wiki/archive/Spektrum-SPM4649T-SRXL-Telemetry-setup[Betaflight Wiki]
 
+=== Akku
+Gens ace Modellbau-Akkupack (LiPo) 22.2 V 4500 mAh Zellen-Zahl: 6 60 C Box Hardcase XT90 - 86€ +
+https://www.conrad.at/de/p/gens-ace-modellbau-akkupack-lipo-22-2-v-4500-mah-zellen-zahl-6-60-c-box-hardcase-xt90-1663572.html
 
+Alternativ:
+WELLPOWER LIPO AKKU ULTIMA 5200 MAH / 22,2 VOLT 6S 35/70C CH5/8 115,44WH xt-90 - 95€ +
+https://www.lindinger.at/de/RC-Elektronik/Antriebe/Akkus/WELLPOWER-LIPO-AKKU-ULTIMA-5200-MAH-22-2-VOLT-6S-35-70C-CH5-8-115-44WH-xt-90/9714601
+
+=== Propeller
+APC 10x4.7 SFP Pusher - 4€ x 4 = 16€ +
+https://www.getfpv.com/propellers/apc-10x4-7-sfp.html
+
+== Insgesamter Preis
+Mindestens 430€ +
+Dies beinhaltet nicht die Filmamentkosten für den 3D-Druck, sowie die Kosten für die Fernsteuerung, die von Jakob Hofer zur Verfügung gestellt wird.
